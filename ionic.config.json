@@ -1,0 +1,7 @@
+{
+  "name": "CGMRParKing",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
